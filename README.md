@@ -6,5 +6,5 @@ The New York City FourSquare checkins dataset used in the paper can be downloade
 
 If you use this algorithm in your work, please cite:
 
-A. Kirkley, Constructing hypergraphs from temporal data. Preprint arXiv:2308.16546 (2023).
+A. Kirkley, Inference of dynamic hypergraph representations in temporal interaction data. Preprint arXiv:2308.16546 (2023).
 
